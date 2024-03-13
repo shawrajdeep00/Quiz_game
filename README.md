@@ -15,22 +15,26 @@ This is a simple Python program that quizzes users on their knowledge of quantum
 3. Answer the questions by typing your response.
 4. Check the correctness of your answers and score.
 
-####Sample output
-
+#### Sample Output
 Welcome to my computer quiz!
 Do you want to play? [Type 'yes' to play]: yes
 Okay! Let's play :)
 
-In which year first quantum computer (2-qubit) was created? 1998
-Correct!
-Who is the father of quantum computing? David Deutsch
-Correct!
-What do we call the pieces of information in a quantum computer? Qubits
-Correct!
-When the information is between 0 and 1 in a quantum computer, what do we call this? Superposition
-Correct!
-Quantum computers are very good at dealing with_____ Uncertainty
-Correct!
+1. **In which year first quantum computer (2-qubit) was created?**  
+   - Correct! (1998)
+
+2. **Who is the father of quantum computing?**  
+   - Correct! (David Deutsch)
+
+3. **What do we call the pieces of information in a quantum computer?**  
+   - Correct! (Qubits)
+
+4. **When the information is between 0 and 1 in a quantum computer, what do we call this?**  
+   - Correct! (Superposition)
+
+5. **Quantum computers are very good at dealing with_____**  
+   - Correct! (Uncertainty)
+
 You got 5 questions correct!
 You got 100.0%.
 
